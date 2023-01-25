@@ -1,0 +1,56 @@
+
+Using Gear Creator Blueprint
+
+1. Go to Blueprints folder and duplicate 'Standard' bluprint to 'Your_Gear_name'. Ex: Gear_27 (for gear mesh 27) 
+*Keep the Standard as default.
+2. Drag 'Gear_27' to your scene. (If you are using more than one (and wish to alternate the meshes) you can duplicate it before make your changes)
+3. Right click in the gear > Edit 'Gear_27'
+4. With Gear selected, change your gear mesh. On Details Panel, select Cog and Amount.
+5. Compile and Save
+
+*Gear Creator level available. Levels > Gear_Creator.
+*Keep the original (Standard_Only) as it is for duplication.
+*Optional: If you prefer to work only with meshes in your scene, you can Convert Gear_27 to Static Mesh after perform your changes. Right click in the gear and Convert Gear_27 to Static Mesh.
+*Adjust Gear mesh, gear radius, gog mesh, cog radius and amount as you wish.
+
+How to set up your Gear Manually
+
+1. Select and drag a Gear you want to use.
+2. Select and drag a Cog (teeth) you want to use and drag it to the selected Gear to start to create a Cogwheel.
+5. Duplicate the Cogwheel and rotate as you wish following the Gear silhouette.
+6. When done with the Cogwheel, drag the group as new subgroup of your Gear and keep everything as
+just one object.
+7. On Free Size Level you will find a Level Blueprint with a reference to the Gear object and set the
+direction and speed as you wish.
+
+The material (TexelDensityTest) available on Material folder help you to quickly visualize the Texel Density of the meshes. 
+The Cogs look different in the Gears level because they are resized to be seen by the camera.
+See Demo scenes to have a better idea.
+
+
+Tips:
+
+1. Mount the Gear on a flat surface and move to your object after mounted.
+2. You can duplicate a Gear and change the Gear and Cog meshes to create a variety of Gears.
+3. Duplicate (Cogwheel) groups to set your gear quickly, when finished drag all Cogs to the same group
+(Cogwheel) and keep it clean and organized.
+4. Use math to help you to duplicate and change Gear sizes if you want to keep the same pace and space among the Cogs.
+5. Different Gear sizes (ratio) requires different speed to match with other Gears.
+
+
+Changing your Gear
+
+1. In the World Outliner select your Gear object (StaticMesh).
+2. Go to Details > Static Mesh and select another gear mesh.
+
+Changing your Cog (teeth)
+
+1. In the World Outliner select all Cogs objects (StaticMesh).
+2. Go to Details > Static Mesh and select another cog mesh.
+
+
+*Credit and thanks to Icy Quasar for share the Gear_Creator Blueprint idea! Wel done Icy!
+
+Regards and good work!
+
+Any suggestion please contact me on: megapackassets@gmail.com
