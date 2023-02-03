@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Meshes/SKM/Claire/BS_claire_Skeleton_BlendSpace.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Meshes/SKM/Claire/ABP_claire_Skeleton_AnimBlueprint.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/PC_ABP.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Animations/Claire/Left_Strafe_Walk.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Animations/Claire/Right_Strafe_Walk.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Maps/1-SKMLevel.umap",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Sequences/NewLevelSequence.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Meshes/SKM/WhiteClown/ABP_Whiteclown.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_Obstacle_1.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Maps/3-InterfaceLevel.umap",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_WhiteClown.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_ObstacleNotInterfaced.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_ObstacleNotInterfaced_1.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Maps/8-TimelineLevel.umap",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/GM_ABP.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/UMG/W_Timeline.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Materials/Masters/M_Transluscent.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Materials/Instances/MI_Transluscent_Blue.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_Timeline.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/GM_UMG.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/PC_Timeline.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/GM_Timeline.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_Pawn.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Maps/9-BoolLogicLevel.umap",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/BoolHUD.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/PC_Bool.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/Game/GM_Bool.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/UMG/W_Bool.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Maps/9-BooleanLevel.umap",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Materials/Instances/MI_Transluscent.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Maps/1-StartLevel.umap",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Maps/StartLevel.umap",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_ConstructionScript.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_Obstacle.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/GameObjects/BP/BP_Pipes.uasset",
+				"D:/Unreal-Projects/5.1/ABP_51/Content/ABPContent/Meshes/SM/Torus_733DCF87.uasset"
+			]
+		}
+	]
+}
